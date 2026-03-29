@@ -154,13 +154,16 @@ public class HomeController {
 ## Résultats
 
 ### Page d'accueil (`/`)
-![Page d'accueil](screenshots/home_page.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a648f3c-1628-48ec-ba16-6573dc3d2953" />
+
 
 ### Page de profil (`/profile`)
-![Page de profil](screenshots/profile_page.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/460db36e-2593-4575-b72c-04f23aeeb78d" />
+
 
 ### Page de déconnexion (`/logout`)
-![Page de déconnexion](screenshots/logout_page.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/203fb7ca-b420-4fa2-86a0-cebca5975c4a" />
+
 
 ---
 
