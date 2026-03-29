@@ -104,10 +104,10 @@ src/main/resources/
 └── application.properties
 ```
 
----
 
 
-```
+
+
 
 
 
@@ -120,23 +120,25 @@ src/main/resources/
 | `picture` | URL photo Google | ✅ |
 | `locale` | Langue utilisateur | ✅ |
 
----
+
 
 ## Résultats
 
 ### Page d'accueil (`/`)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a648f3c-1628-48ec-ba16-6573dc3d2953" />
 
+
+<img width="960" height="540" alt="home" src="https://github.com/user-attachments/assets/787dee5a-51d8-4e71-aaac-5e7bb4cd2f4d" />
 
 ### Page de profil (`/profile`)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/460db36e-2593-4575-b72c-04f23aeeb78d" />
+<img width="960" height="540" alt="profile" src="https://github.com/user-attachments/assets/b08f9d2c-8bff-453c-84e0-0681f1945ff7" />
 
 
 ### Page de déconnexion (`/logout`)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/203fb7ca-b420-4fa2-86a0-cebca5975c4a" />
+<img width="960" height="540" alt="logout" src="https://github.com/user-attachments/assets/fc3a4907-a7eb-4afa-91f8-18374fe5fa03" />
 
 
----
+
+
 
 ## Problèmes rencontrés et solutions
 
@@ -163,7 +165,7 @@ mvn spring-boot:run
 http://localhost:8082/profile
 ```
 
----
+
 
 ## Configuration Google Cloud Console
 
